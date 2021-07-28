@@ -10,3 +10,7 @@ This work is licensed under a
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+
+---
+
+Call templates originally sourced from the CC-BY [InterMine Internships repo](https://github.com/intermine/internships), originally authored by Yo Yehudi. 
