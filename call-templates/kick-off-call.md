@@ -12,7 +12,7 @@ note: This template is also available via HackMD - https://hackmd.io/@yoyehudi/H
 [Add videoconference link]
 Once you've joined the call:
 - Add your name to the attendee list below
-- Don't forget to turn on your webcam! if you'd like to be seen, or off if you'd prefer not to be.
+- Don't forget to turn on your webcam if you'd like to be seen, or off if you'd prefer not to be.
 
 
 Attendees: Name / Student or Mentor? / Project / Twitter / GitHub / Emoji mood
@@ -103,6 +103,6 @@ Anything we didn't cover? Feel free to add questions via text or verbally.
 
 ## :camera: GROUP PHOTO
 
-Let’s try to put on our cameras and snap a screenshot ;) This photo may be shared on blogs and social media. 
+Let’s try to put on our cameras and snap a screenshot ;) This photo may be shared on blogs and social media.
 - If you _don't_ want to be in the photo, now's the time to turn off your camera
 - If you _do_ want to be in the photo, turn it on!

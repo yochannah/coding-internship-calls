@@ -12,7 +12,7 @@ note: this template is also available via hackmd: https://hackmd.io/oqRnkfsaRVmO
 [Add videoconference link]
 Once you've joined the call:
 - Add your name to the attendee list below
-- Don't forget to turn on your webcam! if you'd like to be seen, or off if you'd prefer not to be. 
+- Don't forget to turn on your webcam if you'd like to be seen, or off if you'd prefer not to be. 
 
 Attendees: Name / [Student|Mentor|CommunityMember] / Project / Twitter / GitHub / [Emoji mood](https://emojipedia.org/)
 - Yo Yehudi / Org admin / t: @yoyehudi / G: @yochannah 😊🎉

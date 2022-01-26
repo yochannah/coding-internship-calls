@@ -11,7 +11,7 @@ tags: GSoC, GSoC-template
 [Add videoconference link]
 Once you've joined the call:
 - Add your name to the attendee list below
-- Don't forget to turn on your webcam! :)
+- Don't forget to turn on your webcam if you'd like to be seen, or off if you'd prefer not to be.
 
 
 Attendees: Name / Student or Mentor? / Project / Twitter / GitHub / [Emoji mood](https://emojipedia.org/)

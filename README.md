@@ -13,4 +13,4 @@ This work is licensed under a
 
 ---
 
-Call templates originally sourced from the CC-BY [InterMine Internships repo](https://github.com/intermine/internships), originally authored by Yo Yehudi. 
+Call templates originally sourced from the CC-BY [InterMine Internships repo](https://github.com/intermine/internships), originally authored by Yo Yehudi.
